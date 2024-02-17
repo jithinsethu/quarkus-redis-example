@@ -1,6 +1,6 @@
 # redis-example
 
-Sample project describing the issue when publishing data using ```RedisDataSource.pubsub``` data is inserted to channel but not in the case of ```ReactiveRedisDataSource.pubsub```
+Sample project describing the issue when publishing data using ReactiveRedisDataSource pubsub
 
 
 ## Running the application in dev mode
